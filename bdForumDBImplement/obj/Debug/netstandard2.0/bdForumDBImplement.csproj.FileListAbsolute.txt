@@ -1,0 +1,24 @@
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumDBImplement.deps.json
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumDBImplement.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumDBImplement.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumBusinessLogic.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumBusinessLogic.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.csprojAssemblyReference.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.AssemblyInfoInputs.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.AssemblyInfo.cs
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.csproj.CoreCompileInputs.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.csproj.CopyComplete
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumDBImplement.deps.json
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumDBImplement.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumDBImplement.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumBusinessLogic.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\bin\Debug\netstandard2.0\bdForumBusinessLogic.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.csprojAssemblyReference.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.AssemblyInfoInputs.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.AssemblyInfo.cs
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.csproj.CoreCompileInputs.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.csproj.CopyComplete
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumDBImplement\obj\Debug\netstandard2.0\bdForumDBImplement.pdb

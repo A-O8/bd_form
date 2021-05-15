@@ -1,0 +1,18 @@
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\bin\Debug\netstandard2.0\bdForumBusinessLogic.deps.json
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\bin\Debug\netstandard2.0\bdForumBusinessLogic.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\bin\Debug\netstandard2.0\bdForumBusinessLogic.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.csprojAssemblyReference.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.AssemblyInfoInputs.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.AssemblyInfo.cs
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.csproj.CoreCompileInputs.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\bin\Debug\netstandard2.0\bdForumBusinessLogic.deps.json
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\bin\Debug\netstandard2.0\bdForumBusinessLogic.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\bin\Debug\netstandard2.0\bdForumBusinessLogic.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.csprojAssemblyReference.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.AssemblyInfoInputs.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.AssemblyInfo.cs
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.csproj.CoreCompileInputs.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForumBusinessLogic\obj\Debug\netstandard2.0\bdForumBusinessLogic.pdb

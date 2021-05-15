@@ -1,0 +1,206 @@
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\bdForum.exe.config
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\bdForum.exe
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\bdForum.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\bdForumBusinessLogic.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\bdForumDBImplement.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Options.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Identity.Client.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Buffers.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Collections.Immutable.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.ComponentModel.Annotations.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Memory.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Numerics.Vectors.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Encodings.Web.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Json.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.ValueTuple.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Unity.Abstractions.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Unity.Container.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\bdForumBusinessLogic.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\bdForumDBImplement.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Options.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Identity.Client.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Buffers.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Collections.Immutable.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Memory.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Numerics.Vectors.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Encodings.Web.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Json.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\System.ValueTuple.xml
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Unity.Abstractions.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\Unity.Container.pdb
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csprojAssemblyReference.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormEditTopic.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormListLikes.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormMain.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormMessage.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormMessages.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormReq1.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormReq3.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormSignIn.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormSignUp.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.Properties.Resources.resources
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csproj.GenerateResource.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csproj.CoreCompileInputs.cache
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csproj.CopyComplete
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.exe
+D:\lab 4 cemecter c#\bd-forum-repo-master\bdForum\obj\Debug\bdForum.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\bdForum.exe.config
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\bdForum.exe
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\bdForum.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\bdForumBusinessLogic.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\bdForumDBImplement.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Options.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Identity.Client.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Buffers.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Collections.Immutable.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.ComponentModel.Annotations.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Memory.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Numerics.Vectors.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Encodings.Web.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Json.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.ValueTuple.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Unity.Abstractions.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Unity.Container.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\bdForumBusinessLogic.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\bdForumDBImplement.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Options.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Microsoft.Identity.Client.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Buffers.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Collections.Immutable.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Memory.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Numerics.Vectors.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Encodings.Web.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Text.Json.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\System.ValueTuple.xml
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Unity.Abstractions.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\Unity.Container.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csprojAssemblyReference.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormMain.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormReq1.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormReq3.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormSignIn.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormSignUp.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.Properties.Resources.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csproj.GenerateResource.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csproj.CoreCompileInputs.cache
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.csproj.CopyComplete
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.exe
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.pdb
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormEditfaculties.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.Formapplicants.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.FormListsubject.resources
+D:\семестер 3\семестер 4\Системы управления базами данных\bd-forum-repo-master\bdForum\obj\Debug\bdForum.Formapplicantss.resources
